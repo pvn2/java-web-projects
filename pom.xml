@@ -5,7 +5,7 @@
   <groupId>com.access</groupId>
   <artifactId>LoginRegisterApp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>LoginRegisterApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
  <properties>
@@ -38,12 +38,12 @@
 		<repository>
 			<id>nexus</id>
 			<name>Flipkart-release</name>
-			<url>http://43.205.96.171:8081/repository/Flipkart-release/</url>
+			<url>http://15.206.92.161:8081/repository/Flipkart-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>Wallmart-Snapshot</name>
-			<url>http://43.205.96.171:8081/repository/Flipkart-snapshot/</url>
+			<url>http://15.206.92.161:8081/repository/Flipkart-snapshot/</url>
 		</snapshotRepository>
 </distributionManagement>
 
